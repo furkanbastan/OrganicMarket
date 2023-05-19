@@ -14,3 +14,5 @@
 
 ## Projemden Görseller
 <img src="Organic1.PNG" width="auto">
+<img src="Organic2.PNG" width="auto">
+<img src="Organic3.PNG" width="auto">
