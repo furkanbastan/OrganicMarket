@@ -1,0 +1,15 @@
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\bin\Debug\net7.0\OrganicMarket.Application.deps.json
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\bin\Debug\net7.0\OrganicMarket.Application.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\bin\Debug\net7.0\OrganicMarket.Application.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\bin\Debug\net7.0\OrganicMarket.Domain.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\bin\Debug\net7.0\OrganicMarket.Domain.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.csproj.AssemblyReference.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.AssemblyInfoInputs.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.AssemblyInfo.cs
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.csproj.CoreCompileInputs.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.csproj.CopyComplete
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\refint\OrganicMarket.Application.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\OrganicMarket.Application.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Application\obj\Debug\net7.0\ref\OrganicMarket.Application.dll

@@ -1,0 +1,40 @@
+@model UserSignUpDto
+
+<div class="main" style="height: 700px;">
+    <p class="sign text-success" align="center">Üye Ol</p>
+    <form asp-controller="Auth" asp-action="Login" class="form1" method="post">
+        <div asp-validation-summary="All"></div>
+        <input asp-for="Email" type="email" class="un" align="center" placeholder="E-Mail">
+        <span asp-validation-for="Email"></span>
+
+        <input asp-for="FirstName" type="text" class="un" align="center" placeholder="İsminizi giriniz..">
+        <span asp-validation-for="FirstName"></span>
+
+        <input asp-for="LastName" type="text" class="un" align="center" placeholder="Soyadınızı giriniz..">
+        <span asp-validation-for="LastName"></span>
+
+        <input asp-for="Password" type="password" class="pass" align="center" placeholder="Password">
+        <span asp-validation-for="Email"></span>
+
+        <button type="submit" class="submit" align="center">Üye Ol</button>
+        <div class="row">
+            <label asp-for="EmailSending" for="email-sending" class="col-10 ms-3 mt-3 text-muted"
+                style="font-size: .8rem;">
+                Kampanyalardan haberdar olabilmem için kişisel verilerimin işlenmesini
+                ve tarafıma elektronik ileti gönderilmesini kabul ediyorum.
+            </label>
+            <div class="col d-flex align-items-center"><input type="checkbox" asp-for="EmailSending" id="email-sending">
+            </div>
+        </div>
+        <div class="row">
+            <label asp-for="LightingText" for="lighting-text" class="col-10 ms-3 mt-3 text-muted"
+                style="font-size: .8rem;">
+                Kişisel verilerimin işlenmesine yönelik <a href="#">aydınlatma metnini</a> okudum ve kabul ediyorum
+            </label>
+            <div class="col d-flex align-items-center"><input type="checkbox" asp-for="EmailSending" id="lighting-text">
+            </div>
+        </div>
+
+
+    </form>
+</div>

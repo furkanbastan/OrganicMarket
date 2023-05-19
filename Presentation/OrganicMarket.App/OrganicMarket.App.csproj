@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\OrganicMarket.Infrastructure\OrganicMarket.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\OrganicMarket.Persistence\OrganicMarket.Persistence.csproj" />
+    <ProjectReference Include="..\..\Core\OrganicMarket.Application\OrganicMarket.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="7.0.5" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

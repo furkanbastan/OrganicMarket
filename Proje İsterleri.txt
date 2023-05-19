@@ -1,0 +1,22 @@
+
+Giriş ekranında ürünler listelenecek
+Giriş yapmayan kullanıcı istediği ürünleri favorilere veya sepete ekleyemeyecek
+    Üyelik ve Yönetim
+Siteye üye olan kullanıcı tüketici olacaktır admin paneline erişemeyecektir, admin paneline satıcı ve süper admin erişebilir
+Admin olan kullanıcı ise süper admin tarafından oluşturulabilir
+Admin olan kullanıcı aslında bir satıcıdır(supplier) ürün ekleyip silebilir
+Satıcı rolündeki ürünler için crud işlemlerini yapabilir, süper admine mesaj yollayabilir
+Süper Admin tüm yetkiye sahiptir
+Tüketici ise sipariş verip silebilir
+
+
+Ürünler için görüntülenme sayısı, favoriye eklenme sayısı, satıcı(örn: doğan gıda), ürünün adı, ürün açıklaması, fiyat, satış birimi(kg, paket), miktar(1000gr, 200gr) alanları olmalı
+Satıcı(Supplier) için firma adı, açıklaması alanları olmalı
+Sipariş için sipariş veren tüketici, adresi, sipariş verdiği ürünler ve sipariş tutarı
+Sepet tutarı sadece ürünlerin toplamı olmalı sipariş tutarı ise ürünler + kargo + indirim olmalıdır
+Sepet için sepet durumu(siparişi alındı), sepet tutarı, sepetteki ürün sayısı
+Adres için il, ilçe, mahalle, posta kodu, açık adres alanları olmalı
+Tüketici için isim, soyisim, telefon, email alanları olmalı
+Bir kişinin birden fazla adresi olabilir ama varsayılan adresi de olmalıdır
+
+Süper admin sadece admin rolünde kullanıcı ekleyebilecektir admin rolündeki kullanıcı aslında satıcıdır

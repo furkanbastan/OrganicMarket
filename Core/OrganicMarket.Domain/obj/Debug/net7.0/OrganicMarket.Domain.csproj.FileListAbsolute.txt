@@ -1,0 +1,12 @@
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\bin\Debug\net7.0\OrganicMarket.Domain.deps.json
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\bin\Debug\net7.0\OrganicMarket.Domain.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\bin\Debug\net7.0\OrganicMarket.Domain.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.csproj.AssemblyReference.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.AssemblyInfo.cs
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\refint\OrganicMarket.Domain.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\OrganicMarket.Domain.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Core\OrganicMarket.Domain\obj\Debug\net7.0\ref\OrganicMarket.Domain.dll

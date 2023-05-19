@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{8D83809F-F923-46B2-8B26-F07543D15AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganicMarket.Application", "Core\OrganicMarket.Application\OrganicMarket.Application.csproj", "{7A624065-F462-4A72-959F-0F40D0930426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganicMarket.Domain", "Core\OrganicMarket.Domain\OrganicMarket.Domain.csproj", "{6223DCE2-DD28-4720-9C41-4B3D5E822747}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BB54B791-6A1C-4E0F-AE55-045E32305592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganicMarket.Infrastructure", "Infrastructure\OrganicMarket.Infrastructure\OrganicMarket.Infrastructure.csproj", "{E600C75F-5CF2-4AA9-A217-AE346C9AB858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganicMarket.Persistence", "Infrastructure\OrganicMarket.Persistence\OrganicMarket.Persistence.csproj", "{24DBCC63-D264-4507-AD0C-8C7126669B9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{60F206FE-5DE6-470A-8E8E-AB5A051BC035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganicMarket.App", "Presentation\OrganicMarket.App\OrganicMarket.App.csproj", "{267F8923-1061-43E5-9721-6CD52D618F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A624065-F462-4A72-959F-0F40D0930426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A624065-F462-4A72-959F-0F40D0930426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A624065-F462-4A72-959F-0F40D0930426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A624065-F462-4A72-959F-0F40D0930426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6223DCE2-DD28-4720-9C41-4B3D5E822747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6223DCE2-DD28-4720-9C41-4B3D5E822747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6223DCE2-DD28-4720-9C41-4B3D5E822747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6223DCE2-DD28-4720-9C41-4B3D5E822747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E600C75F-5CF2-4AA9-A217-AE346C9AB858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E600C75F-5CF2-4AA9-A217-AE346C9AB858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E600C75F-5CF2-4AA9-A217-AE346C9AB858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E600C75F-5CF2-4AA9-A217-AE346C9AB858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DBCC63-D264-4507-AD0C-8C7126669B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DBCC63-D264-4507-AD0C-8C7126669B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DBCC63-D264-4507-AD0C-8C7126669B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DBCC63-D264-4507-AD0C-8C7126669B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267F8923-1061-43E5-9721-6CD52D618F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267F8923-1061-43E5-9721-6CD52D618F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267F8923-1061-43E5-9721-6CD52D618F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267F8923-1061-43E5-9721-6CD52D618F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A624065-F462-4A72-959F-0F40D0930426} = {8D83809F-F923-46B2-8B26-F07543D15AB6}
+		{6223DCE2-DD28-4720-9C41-4B3D5E822747} = {8D83809F-F923-46B2-8B26-F07543D15AB6}
+		{E600C75F-5CF2-4AA9-A217-AE346C9AB858} = {BB54B791-6A1C-4E0F-AE55-045E32305592}
+		{24DBCC63-D264-4507-AD0C-8C7126669B9C} = {BB54B791-6A1C-4E0F-AE55-045E32305592}
+		{267F8923-1061-43E5-9721-6CD52D618F78} = {60F206FE-5DE6-470A-8E8E-AB5A051BC035}
+	EndGlobalSection
+EndGlobal

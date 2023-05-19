@@ -1,0 +1,17 @@
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Infrastructure.deps.json
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Infrastructure.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Infrastructure.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Application.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Domain.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Application.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\bin\Debug\net7.0\OrganicMarket.Domain.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.AssemblyInfo.cs
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.csproj.CopyComplete
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\refint\OrganicMarket.Infrastructure.dll
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\OrganicMarket.Infrastructure.pdb
+C:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Infrastructure\OrganicMarket.Infrastructure\obj\Debug\net7.0\ref\OrganicMarket.Infrastructure.dll

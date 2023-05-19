@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrganicMarket.App
+build_property.RootNamespace = OrganicMarket.App
+build_property.ProjectDir = c:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Presentation\OrganicMarket.App\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = c:\Users\bbast\OneDrive\Masaüstü\OrganicMarket\Presentation\OrganicMarket.App
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Order/GetAllOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcR2V0QWxsT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Order/GetCompletedOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcR2V0Q29tcGxldGVkT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Order/GetNewOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcR2V0TmV3T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Product/GetAllProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxHZXRBbGxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Product/GetMayEndProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxHZXRNYXlFbmRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Product/GetNewProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxHZXROZXdQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Product/GetProductsBySupplier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0c0J5U3VwcGxpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Product/GetSoldOutProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxHZXRTb2xkT3V0UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/User/GetAllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxHZXRBbGxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Basket/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Favorite/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Order/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Shared/Components/Header/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/bbast/OneDrive/Masaüstü/OrganicMarket/Presentation/OrganicMarket.App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sdv09j4ud1
