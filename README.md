@@ -13,3 +13,4 @@
 - Entity Framework
 
 ## Projemden Görseller
+<img src="Organic1.PNG" width="auto">
